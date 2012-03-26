@@ -19,7 +19,7 @@ prompt user to accept decrypted text or to try again.
 It happens that English letter frequency distribution holds for our encrypted text and we get an answer on the first try. But the solution is iterative and we should get an answer within less than brute force attempts.
 
 We could of used most frequent words here to eliminate iterative prompting but 
-having [E]valuate [P]rompt [R]read [L]oop illustrates how one can have naive REPL like
+having [E]valuate [P]rompt [R]read [L]oop illustrates how one can have a naive REPL like
 behavior.
 
 ## Problem 2
